@@ -1,1 +1,2 @@
-# Swagger2_RI
+# Rest Service Documentation using Swagger
+
